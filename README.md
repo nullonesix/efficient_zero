@@ -2,8 +2,7 @@ A quick implementation of MuZero (https://arxiv.org/abs/1911.08265) and Efficien
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4oPR-sY9PXk/0.jpg)](https://www.youtube.com/watch?v=4oPR-sY9PXk)
 
-
-
+https://www.youtube.com/watch?v=4oPR-sY9PXk
 
 
 
